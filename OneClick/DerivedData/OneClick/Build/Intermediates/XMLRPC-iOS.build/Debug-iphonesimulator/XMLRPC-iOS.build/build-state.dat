@@ -1,0 +1,400 @@
+TXMLRPC-iOS
+v5
+r1
+cCheck dependencies
+cProcessPCH /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/PrecompiledHeaders/XMLRPC_iOS_Prefix-apuqazxoxwdzzldjoepebfaqhnhu/XMLRPC_iOS_Prefix.pch.pth XMLRPC_iOS_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/Objects-normal/i386/XMLRPCEventBasedParserDelegate.o /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC/XMLRPCEventBasedParserDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/Objects-normal/i386/NSDataAdditions.o /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC/NSDataAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/Objects-normal/i386/XMLRPCEncoder.o /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC/XMLRPCEncoder.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/Objects-normal/i386/NSStringAdditions.o /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC/NSStringAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/Objects-normal/i386/XMLRPCConnection.o /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC/XMLRPCConnection.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/Objects-normal/i386/XMLRPCConnectionManager.o /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC/XMLRPCConnectionManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/Objects-normal/i386/XMLRPCEventBasedParser.o /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC/XMLRPCEventBasedParser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/Objects-normal/i386/XMLRPCRequest.o /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC/XMLRPCRequest.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/Objects-normal/i386/XMLRPCResponse.o /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC/XMLRPCResponse.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Products/Debug-iphonesimulator/libXMLRPC_iOS.a normal i386
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk
+c00000000501052AD0000000000000110
+t1343247021
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004FDCDFA80000000000353830
+t1339875240
+s3487792
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk
+c00000000509AF3A60000000000000110
+t1352332198
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000505CCCDD00000000003DCEF0
+t1348259037
+s4050672
+
+N/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/PrecompiledHeaders/XMLRPC_iOS_Prefix-apuqazxoxwdzzldjoepebfaqhnhu/XMLRPC_iOS_Prefix.pch.pth
+t1359048314
+s2919276
+
+N/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/PrecompiledHeaders/XMLRPC_iOS_Prefix-eoiviegahswbeygzqxgydsapleba/XMLRPC_iOS_Prefix.pch.pth
+t1343517864
+s2576728
+
+N/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/PrecompiledHeaders/XMLRPC_iOS_Prefix-gwvipxdfdjvpungdsfbhckhwhwnb/XMLRPC_iOS_Prefix.pch.pth
+t1340041687
+s2529428
+
+N/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/Objects-normal/i386/NSDataAdditions.o
+t1359048314
+s6528
+
+N/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/Objects-normal/i386/NSStringAdditions.o
+t1359048314
+s16920
+
+N/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/Objects-normal/i386/XMLRPCConnection.o
+t1359048314
+s24056
+
+N/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/Objects-normal/i386/XMLRPCConnectionManager.o
+t1359048314
+s15944
+
+N/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/Objects-normal/i386/XMLRPCEncoder.o
+t1359048314
+s31224
+
+N/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/Objects-normal/i386/XMLRPCEventBasedParser.o
+t1359048314
+s18256
+
+N/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/Objects-normal/i386/XMLRPCEventBasedParserDelegate.o
+t1359048314
+s38416
+
+N/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/Objects-normal/i386/XMLRPCRequest.o
+t1359048314
+s17688
+
+N/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/Objects-normal/i386/XMLRPCResponse.o
+t1359048314
+s11844
+
+N/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/Objects-normal/i386/XMLRPC_iOS.LinkFileList
+c000000004FDF69D600000000000006AF
+t1340041686
+s1711
+
+N/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Products/Debug-iphonesimulator/libXMLRPC_iOS.a
+t1359048314
+s183880
+
+N/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC/NSDataAdditions.h
+c000000004D2777B80000000000000522
+t1294432184
+s1314
+
+N/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC/NSDataAdditions.m
+c000000004D2777B80000000000000DEA
+t1294432184
+s3562
+
+N/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC/NSStringAdditions.h
+c000000004D2777B800000000000005AD
+t1294432184
+s1453
+
+N/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC/NSStringAdditions.m
+c000000004D2777B80000000000001748
+t1294432184
+s5960
+
+N/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC/XMLRPCConnection.h
+c000000004D2777B800000000000007B6
+t1294432184
+s1974
+
+N/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC/XMLRPCConnection.m
+c000000004D2777B80000000000001958
+t1294432184
+s6488
+
+N/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC/XMLRPCConnectionDelegate.h
+c000000004D2777B8000000000000075D
+t1294432184
+s1885
+
+N/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC/XMLRPCConnectionManager.h
+c000000004D2777B80000000000000748
+t1294432184
+s1864
+
+N/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC/XMLRPCConnectionManager.m
+c000000004D2777B80000000000000D7A
+t1294432184
+s3450
+
+N/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC/XMLRPCEncoder.h
+c000000004D2777B800000000000005D8
+t1294432184
+s1496
+
+N/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC/XMLRPCEncoder.m
+c000000004D2777B800000000000021B4
+t1294432184
+s8628
+
+N/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC/XMLRPCEventBasedParser.h
+c000000004D2777B8000000000000063F
+t1294432184
+s1599
+
+N/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC/XMLRPCEventBasedParser.m
+c000000004D2777B80000000000000AC6
+t1294432184
+s2758
+
+N/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC/XMLRPCEventBasedParserDelegate.h
+c000000004D2777B800000000000008E4
+t1294432184
+s2276
+
+N/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC/XMLRPCEventBasedParserDelegate.m
+c000000004D2777B80000000000002929
+t1294432184
+s10537
+
+N/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC/XMLRPCRequest.h
+c000000004FDBEDC900000000000007AA
+t1339813321
+s1962
+
+N/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC/XMLRPCRequest.m
+c000000004FDBEDBE0000000000000FAE
+t1339813310
+s4014
+
+N/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC/XMLRPCResponse.h
+c000000004D2777B80000000000000601
+t1294432184
+s1537
+
+N/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC/XMLRPCResponse.m
+c000000004D2777B80000000000000950
+t1294432184
+s2384
+
+N/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC/XMLRPC_iOS_Prefix.pch
+c000000004D2777B800000000000000BC
+t1294432184
+s188
+
+CBuild AST from /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC/NSDataAdditions.m
+r0
+
+CBuild AST from /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC/NSStringAdditions.m
+r0
+
+CBuild AST from /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC/XMLRPCConnection.m
+r0
+
+CBuild AST from /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC/XMLRPCConnectionManager.m
+r0
+
+CBuild AST from /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC/XMLRPCEncoder.m
+r0
+
+CBuild AST from /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC/XMLRPCEventBasedParser.m
+r0
+
+CBuild AST from /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC/XMLRPCEventBasedParserDelegate.m
+r0
+
+CBuild AST from /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC/XMLRPCRequest.m
+r0
+
+CBuild AST from /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC/XMLRPCResponse.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies0c8f5536a9b1b641^51f65a36a9b1b641^---0#1#0#--18"Check dependencies36"46BB92D0-9FD6-4D9B-B865-BF4957561AF8-
+
+CCompileC /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/Objects-normal/i386/NSDataAdditions.o /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC/NSDataAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s380741114.559354
+e380741114.718087
+r1
+xCompileC
+x/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/Objects-normal/i386/NSDataAdditions.o
+x/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC/NSDataAdditions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compile /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC/NSDataAdditions.m19ad8ffaa5b1b641^bfd4b7faa5b1b641^---0#0#0#-19%DVTDocumentLocation2@101"file://localhost/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC/NSDataAdditions.m0000000000000000^4246"CompileC /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/Objects-normal/i386/NSDataAdditions.o NSDataAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=4.0 -iquote /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/XMLRPC_iOS-generated-files.hmap -I/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/XMLRPC_iOS-own-target-headers.hmap -I/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/XMLRPC_iOS-all-target-headers.hmap -iquote /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/XMLRPC_iOS-project-headers.hmap -I/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/DerivedSources/i386 -I/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/DerivedSources -F/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Products/Debug-iphonesimulator -include /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/PrecompiledHeaders/XMLRPC_iOS_Prefix-apuqazxoxwdzzldjoepebfaqhnhu/XMLRPC_iOS_Prefix.pch -MMD -MT dependencies -MF /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/Objects-normal/i386/NSDataAdditions.d --serialize-diagnostics /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/Objects-normal/i386/NSDataAdditions.dia -c /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC/NSDataAdditions.m -o /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/Objects-normal/i386/NSDataAdditions.o36"B6BED476-656A-4CEA-B074-1D2B108023BF-
+
+CCompileC /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/Objects-normal/i386/NSStringAdditions.o /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC/NSStringAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s380741114.718909
+e380741114.839229
+r1
+xCompileC
+x/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/Objects-normal/i386/NSStringAdditions.o
+x/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC/NSStringAdditions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC/NSStringAdditions.m9b58b8faa5b1b641^edd6d6faa5b1b641^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC/NSStringAdditions.m0000000000000000^4258"CompileC /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/Objects-normal/i386/NSStringAdditions.o NSStringAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=4.0 -iquote /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/XMLRPC_iOS-generated-files.hmap -I/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/XMLRPC_iOS-own-target-headers.hmap -I/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/XMLRPC_iOS-all-target-headers.hmap -iquote /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/XMLRPC_iOS-project-headers.hmap -I/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/DerivedSources/i386 -I/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/DerivedSources -F/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Products/Debug-iphonesimulator -include /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/PrecompiledHeaders/XMLRPC_iOS_Prefix-apuqazxoxwdzzldjoepebfaqhnhu/XMLRPC_iOS_Prefix.pch -MMD -MT dependencies -MF /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/Objects-normal/i386/NSStringAdditions.d --serialize-diagnostics /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/Objects-normal/i386/NSStringAdditions.dia -c /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC/NSStringAdditions.m -o /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/Objects-normal/i386/NSStringAdditions.o36"18BA3A76-37B8-4B01-BE5B-93785A4020E7-
+
+CCompileC /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/Objects-normal/i386/XMLRPCConnection.o /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC/XMLRPCConnection.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s380741114.720494
+e380741114.809654
+r1
+xCompileC
+x/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/Objects-normal/i386/XMLRPCConnection.o
+x/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC/XMLRPCConnection.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Compile /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC/XMLRPCConnection.m0dabb8faa5b1b641^2845cffaa5b1b641^---0#0#0#-19%DVTDocumentLocation2@102"file://localhost/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC/XMLRPCConnection.m0000000000000000^4252"CompileC /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/Objects-normal/i386/XMLRPCConnection.o XMLRPCConnection.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=4.0 -iquote /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/XMLRPC_iOS-generated-files.hmap -I/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/XMLRPC_iOS-own-target-headers.hmap -I/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/XMLRPC_iOS-all-target-headers.hmap -iquote /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/XMLRPC_iOS-project-headers.hmap -I/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/DerivedSources/i386 -I/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/DerivedSources -F/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Products/Debug-iphonesimulator -include /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/PrecompiledHeaders/XMLRPC_iOS_Prefix-apuqazxoxwdzzldjoepebfaqhnhu/XMLRPC_iOS_Prefix.pch -MMD -MT dependencies -MF /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/Objects-normal/i386/XMLRPCConnection.d --serialize-diagnostics /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/Objects-normal/i386/XMLRPCConnection.dia -c /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC/XMLRPCConnection.m -o /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/Objects-normal/i386/XMLRPCConnection.o36"9F319270-6E4D-4D25-B80D-7EBE12566ECB-
+
+CCompileC /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/Objects-normal/i386/XMLRPCConnectionManager.o /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC/XMLRPCConnectionManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s380741114.559493
+e380741114.733163
+r1
+xCompileC
+x/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/Objects-normal/i386/XMLRPCConnectionManager.o
+x/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC/XMLRPCConnectionManager.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Compile /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC/XMLRPCConnectionManager.m986d8ffaa5b1b641^5ef6bbfaa5b1b641^---0#0#0#-19%DVTDocumentLocation2@109"file://localhost/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC/XMLRPCConnectionManager.m0000000000000000^4294"CompileC /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/Objects-normal/i386/XMLRPCConnectionManager.o XMLRPCConnectionManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=4.0 -iquote /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/XMLRPC_iOS-generated-files.hmap -I/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/XMLRPC_iOS-own-target-headers.hmap -I/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/XMLRPC_iOS-all-target-headers.hmap -iquote /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/XMLRPC_iOS-project-headers.hmap -I/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/DerivedSources/i386 -I/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/DerivedSources -F/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Products/Debug-iphonesimulator -include /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/PrecompiledHeaders/XMLRPC_iOS_Prefix-apuqazxoxwdzzldjoepebfaqhnhu/XMLRPC_iOS_Prefix.pch -MMD -MT dependencies -MF /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/Objects-normal/i386/XMLRPCConnectionManager.d --serialize-diagnostics /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/Objects-normal/i386/XMLRPCConnectionManager.dia -c /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC/XMLRPCConnectionManager.m -o /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/Objects-normal/i386/XMLRPCConnectionManager.o36"B8C56602-EE17-4B1D-A6F3-933B14659D26-
+
+CCompileC /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/Objects-normal/i386/XMLRPCEncoder.o /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC/XMLRPCEncoder.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s380741114.560032
+e380741114.731847
+r1
+xCompileC
+x/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/Objects-normal/i386/XMLRPCEncoder.o
+x/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC/XMLRPCEncoder.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC/XMLRPCEncoder.me78d8ffaa5b1b641^376cbbfaa5b1b641^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC/XMLRPCEncoder.m0000000000000000^4234"CompileC /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/Objects-normal/i386/XMLRPCEncoder.o XMLRPCEncoder.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=4.0 -iquote /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/XMLRPC_iOS-generated-files.hmap -I/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/XMLRPC_iOS-own-target-headers.hmap -I/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/XMLRPC_iOS-all-target-headers.hmap -iquote /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/XMLRPC_iOS-project-headers.hmap -I/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/DerivedSources/i386 -I/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/DerivedSources -F/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Products/Debug-iphonesimulator -include /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/PrecompiledHeaders/XMLRPC_iOS_Prefix-apuqazxoxwdzzldjoepebfaqhnhu/XMLRPC_iOS_Prefix.pch -MMD -MT dependencies -MF /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/Objects-normal/i386/XMLRPCEncoder.d --serialize-diagnostics /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/Objects-normal/i386/XMLRPCEncoder.dia -c /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC/XMLRPCEncoder.m -o /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/Objects-normal/i386/XMLRPCEncoder.o36"67818F42-97E3-461D-BB9B-0463029DF72F-
+
+CCompileC /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/Objects-normal/i386/XMLRPCEventBasedParser.o /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC/XMLRPCEventBasedParser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s380741114.560254
+e380741114.717481
+r1
+xCompileC
+x/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/Objects-normal/i386/XMLRPCEventBasedParser.o
+x/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC/XMLRPCEventBasedParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Compile /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC/XMLRPCEventBasedParser.med9b8ffaa5b1b641^71acb7faa5b1b641^---0#0#0#-19%DVTDocumentLocation2@108"file://localhost/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC/XMLRPCEventBasedParser.m0000000000000000^4288"CompileC /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/Objects-normal/i386/XMLRPCEventBasedParser.o XMLRPCEventBasedParser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=4.0 -iquote /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/XMLRPC_iOS-generated-files.hmap -I/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/XMLRPC_iOS-own-target-headers.hmap -I/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/XMLRPC_iOS-all-target-headers.hmap -iquote /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/XMLRPC_iOS-project-headers.hmap -I/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/DerivedSources/i386 -I/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/DerivedSources -F/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Products/Debug-iphonesimulator -include /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/PrecompiledHeaders/XMLRPC_iOS_Prefix-apuqazxoxwdzzldjoepebfaqhnhu/XMLRPC_iOS_Prefix.pch -MMD -MT dependencies -MF /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/Objects-normal/i386/XMLRPCEventBasedParser.d --serialize-diagnostics /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/Objects-normal/i386/XMLRPCEventBasedParser.dia -c /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC/XMLRPCEventBasedParser.m -o /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/Objects-normal/i386/XMLRPCEventBasedParser.o36"FE2E3CA4-80B4-4BD1-88A2-CF68C9943397-
+
+CCompileC /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/Objects-normal/i386/XMLRPCEventBasedParserDelegate.o /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC/XMLRPCEventBasedParserDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s380741114.733197
+e380741114.866407
+r1
+xCompileC
+x/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/Objects-normal/i386/XMLRPCEventBasedParserDelegate.o
+x/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC/XMLRPCEventBasedParserDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Compile /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC/XMLRPCEventBasedParserDelegate.m8ae8bbfaa5b1b641^10ccddfaa5b1b641^---0#0#0#-19%DVTDocumentLocation2@116"file://localhost/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC/XMLRPCEventBasedParserDelegate.m0000000000000000^4336"CompileC /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/Objects-normal/i386/XMLRPCEventBasedParserDelegate.o XMLRPCEventBasedParserDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=4.0 -iquote /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/XMLRPC_iOS-generated-files.hmap -I/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/XMLRPC_iOS-own-target-headers.hmap -I/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/XMLRPC_iOS-all-target-headers.hmap -iquote /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/XMLRPC_iOS-project-headers.hmap -I/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/DerivedSources/i386 -I/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/DerivedSources -F/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Products/Debug-iphonesimulator -include /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/PrecompiledHeaders/XMLRPC_iOS_Prefix-apuqazxoxwdzzldjoepebfaqhnhu/XMLRPC_iOS_Prefix.pch -MMD -MT dependencies -MF /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/Objects-normal/i386/XMLRPCEventBasedParserDelegate.d --serialize-diagnostics /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/Objects-normal/i386/XMLRPCEventBasedParserDelegate.dia -c /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC/XMLRPCEventBasedParserDelegate.m -o /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/Objects-normal/i386/XMLRPCEventBasedParserDelegate.o36"DED033DC-F285-41A5-A55B-C3DC644E7BBA-
+
+CCompileC /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/Objects-normal/i386/XMLRPCRequest.o /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC/XMLRPCRequest.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s380741114.734716
+e380741114.838711
+r1
+xCompileC
+x/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/Objects-normal/i386/XMLRPCRequest.o
+x/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC/XMLRPCRequest.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC/XMLRPCRequest.mdf50bcfaa5b1b641^d4b5d6faa5b1b641^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC/XMLRPCRequest.m0000000000000000^4234"CompileC /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/Objects-normal/i386/XMLRPCRequest.o XMLRPCRequest.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=4.0 -iquote /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/XMLRPC_iOS-generated-files.hmap -I/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/XMLRPC_iOS-own-target-headers.hmap -I/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/XMLRPC_iOS-all-target-headers.hmap -iquote /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/XMLRPC_iOS-project-headers.hmap -I/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/DerivedSources/i386 -I/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/DerivedSources -F/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Products/Debug-iphonesimulator -include /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/PrecompiledHeaders/XMLRPC_iOS_Prefix-apuqazxoxwdzzldjoepebfaqhnhu/XMLRPC_iOS_Prefix.pch -MMD -MT dependencies -MF /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/Objects-normal/i386/XMLRPCRequest.d --serialize-diagnostics /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/Objects-normal/i386/XMLRPCRequest.dia -c /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC/XMLRPCRequest.m -o /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/Objects-normal/i386/XMLRPCRequest.o36"32E615A6-0419-4DCC-B637-8F53F6BCA9F2-
+
+CCompileC /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/Objects-normal/i386/XMLRPCResponse.o /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC/XMLRPCResponse.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s380741114.811046
+e380741114.864946
+r1
+xCompileC
+x/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/Objects-normal/i386/XMLRPCResponse.o
+x/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC/XMLRPCResponse.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC/XMLRPCResponse.m8dd4cffaa5b1b641^096dddfaa5b1b641^---0#0#0#-19%DVTDocumentLocation2@100"file://localhost/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC/XMLRPCResponse.m0000000000000000^4240"CompileC /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/Objects-normal/i386/XMLRPCResponse.o XMLRPCResponse.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=4.0 -iquote /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/XMLRPC_iOS-generated-files.hmap -I/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/XMLRPC_iOS-own-target-headers.hmap -I/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/XMLRPC_iOS-all-target-headers.hmap -iquote /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/XMLRPC_iOS-project-headers.hmap -I/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/DerivedSources/i386 -I/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/DerivedSources -F/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Products/Debug-iphonesimulator -include /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/PrecompiledHeaders/XMLRPC_iOS_Prefix-apuqazxoxwdzzldjoepebfaqhnhu/XMLRPC_iOS_Prefix.pch -MMD -MT dependencies -MF /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/Objects-normal/i386/XMLRPCResponse.d --serialize-diagnostics /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/Objects-normal/i386/XMLRPCResponse.dia -c /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC/XMLRPCResponse.m -o /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/Objects-normal/i386/XMLRPCResponse.o36"BB6F47B2-33C6-416C-A20E-AC1C31ECC3C4-
+
+CLibtool /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Products/Debug-iphonesimulator/libXMLRPC_iOS.a normal i386
+s380741114.873230
+e380741114.889978
+r1
+xLibtool
+x/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Products/Debug-iphonesimulator/libXMLRPC_iOS.a
+xnormal
+xi386
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection145"Libtool /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Products/Debug-iphonesimulator/libXMLRPC_iOS.a normal i38679aedffaa5b1b641^a6d6e3faa5b1b641^-159"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC -0#0#0#--1181"Libtool /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Products/Debug-iphonesimulator/libXMLRPC_iOS.a normal i386    cd /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC    setenv IPHONEOS_DEPLOYMENT_TARGET 4.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -L/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Products/Debug-iphonesimulator -filelist /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/Objects-normal/i386/XMLRPC_iOS.LinkFileList -ObjC -framework Foundation -o /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Products/Debug-iphonesimulator/libXMLRPC_iOS.a36"F0F93F0A-6FC2-4194-9404-4C156DA621C0-
+
+CProcessPCH /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/PrecompiledHeaders/XMLRPC_iOS_Prefix-apuqazxoxwdzzldjoepebfaqhnhu/XMLRPC_iOS_Prefix.pch.pth XMLRPC_iOS_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s380741114.110338
+e380741114.552194
+r1
+xProcessPCH
+x/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/PrecompiledHeaders/XMLRPC_iOS_Prefix-apuqazxoxwdzzldjoepebfaqhnhu/XMLRPC_iOS_Prefix.pch.pth
+xXMLRPC_iOS_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection32"Precompile XMLRPC_iOS_Prefix.pchd0471dfaa5b1b641^5f5d8dfaa5b1b641^---0#0#0#-19%DVTDocumentLocation2@105"file://localhost/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC/XMLRPC_iOS_Prefix.pch0000000000000000^4061"ProcessPCH /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/PrecompiledHeaders/XMLRPC_iOS_Prefix-apuqazxoxwdzzldjoepebfaqhnhu/XMLRPC_iOS_Prefix.pch.pth XMLRPC_iOS_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=4.0 -iquote /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/XMLRPC_iOS-generated-files.hmap -I/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/XMLRPC_iOS-own-target-headers.hmap -I/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/XMLRPC_iOS-all-target-headers.hmap -iquote /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/XMLRPC_iOS-project-headers.hmap -I/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/DerivedSources/i386 -I/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/DerivedSources -F/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/PrecompiledHeaders/XMLRPC_iOS_Prefix-apuqazxoxwdzzldjoepebfaqhnhu/XMLRPC_iOS_Prefix.pch.dia -c /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC/XMLRPC_iOS_Prefix.pch -o /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/PrecompiledHeaders/XMLRPC_iOS_Prefix-apuqazxoxwdzzldjoepebfaqhnhu/XMLRPC_iOS_Prefix.pch.pth -MMD -MT dependencies -MF /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/PrecompiledHeaders/XMLRPC_iOS_Prefix-apuqazxoxwdzzldjoepebfaqhnhu/XMLRPC_iOS_Prefix.pch.d36"F50F3007-F321-4055-8402-C9401BA57D3D-
+
+CProcessPCH /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/PrecompiledHeaders/XMLRPC_iOS_Prefix-eoiviegahswbeygzqxgydsapleba/XMLRPC_iOS_Prefix.pch.pth XMLRPC_iOS_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s365210663.734075
+e365210664.471878
+r1
+xProcessPCH
+x/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/PrecompiledHeaders/XMLRPC_iOS_Prefix-eoiviegahswbeygzqxgydsapleba/XMLRPC_iOS_Prefix.pch.pth
+xXMLRPC_iOS_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection32"Precompile XMLRPC_iOS_Prefix.pchac1ebc27acc4b541^87dc7828acc4b541^---0#0#0#-19%DVTDocumentLocation2@105"file://localhost/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC/XMLRPC_iOS_Prefix.pch0000000000000000^3912"ProcessPCH /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/PrecompiledHeaders/XMLRPC_iOS_Prefix-eoiviegahswbeygzqxgydsapleba/XMLRPC_iOS_Prefix.pch.pth XMLRPC_iOS_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/XMLRPC_iOS-generated-files.hmap -I/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/XMLRPC_iOS-own-target-headers.hmap -I/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/XMLRPC_iOS-all-target-headers.hmap -iquote /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/XMLRPC_iOS-project-headers.hmap -I/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/DerivedSources/i386 -I/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/DerivedSources -F/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/PrecompiledHeaders/XMLRPC_iOS_Prefix-eoiviegahswbeygzqxgydsapleba/XMLRPC_iOS_Prefix.pch.dia -c /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC/XMLRPC_iOS_Prefix.pch -o /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/PrecompiledHeaders/XMLRPC_iOS_Prefix-eoiviegahswbeygzqxgydsapleba/XMLRPC_iOS_Prefix.pch.pth -MMD -MT dependencies -MF /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/PrecompiledHeaders/XMLRPC_iOS_Prefix-eoiviegahswbeygzqxgydsapleba/XMLRPC_iOS_Prefix.pch.d36"22F7AE1E-3F03-4488-A0F1-11DDD88DFC45-
+
+CProcessPCH /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/PrecompiledHeaders/XMLRPC_iOS_Prefix-gwvipxdfdjvpungdsfbhckhwhwnb/XMLRPC_iOS_Prefix.pch.pth XMLRPC_iOS_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s361734486.621416
+e361734487.020693
+r1
+xProcessPCH
+x/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/PrecompiledHeaders/XMLRPC_iOS_Prefix-gwvipxdfdjvpungdsfbhckhwhwnb/XMLRPC_iOS_Prefix.pch.pth
+xXMLRPC_iOS_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection32"Precompile XMLRPC_iOS_Prefix.pch54569f56a18fb541^494b0557a18fb541^---0#0#0#-19%DVTDocumentLocation2@105"file://localhost/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC/XMLRPC_iOS_Prefix.pch0000000000000000^3797"ProcessPCH /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/PrecompiledHeaders/XMLRPC_iOS_Prefix-gwvipxdfdjvpungdsfbhckhwhwnb/XMLRPC_iOS_Prefix.pch.pth XMLRPC_iOS_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/XMLRPC_iOS-generated-files.hmap -I/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/XMLRPC_iOS-own-target-headers.hmap -I/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/XMLRPC_iOS-all-target-headers.hmap -iquote /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/XMLRPC_iOS-project-headers.hmap -I/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Products/Debug-iphonesimulator/include -I/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/DerivedSources/i386 -I/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/XMLRPC-iOS.build/Debug-iphonesimulator/XMLRPC-iOS.build/DerivedSources -F/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/PrecompiledHeaders/XMLRPC_iOS_Prefix-gwvipxdfdjvpungdsfbhckhwhwnb/XMLRPC_iOS_Prefix.pch.dia -c /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/XMLRPC/XMLRPC_iOS_Prefix.pch -o /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/PrecompiledHeaders/XMLRPC_iOS_Prefix-gwvipxdfdjvpungdsfbhckhwhwnb/XMLRPC_iOS_Prefix.pch.pth -MMD -MT dependencies -MF /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/PrecompiledHeaders/XMLRPC_iOS_Prefix-gwvipxdfdjvpungdsfbhckhwhwnb/XMLRPC_iOS_Prefix.pch.d36"C8989139-D60B-4922-8DA5-860CAD79FE36-
+
+CProcessPCH /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Index/PrecompiledHeaders/XMLRPC_iOS_Prefix-awixphvvjxlevnfunrvivwnzqrsz_ast/XMLRPC_iOS_Prefix.pch.pth XMLRPC_iOS_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Index/PrecompiledHeaders/XMLRPC_iOS_Prefix-cszdqshiviheobgmgklsulinwczm_ast/XMLRPC_iOS_Prefix.pch.pth XMLRPC_iOS_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Index/PrecompiledHeaders/XMLRPC_iOS_Prefix-cuonhgkqfzxdngenayipibyaynly_ast/XMLRPC_iOS_Prefix.pch.pth XMLRPC_iOS_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+

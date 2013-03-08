@@ -1,0 +1,313 @@
+TOneClick
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Products/Debug-iphonesimulator/OneClick.app/Info.plist OneClick/OneClick-Info.plist
+cProcessPCH /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/PrecompiledHeaders/OneClick-Prefix-hgdhbisspitpzggejzfpnjzwcagg/OneClick-Prefix.pch.pth OneClick/OneClick-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/OneClick/Build/Intermediates/OneClick.build/Debug-iphonesimulator/OneClick.build/Objects-normal/i386/main.o /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/OneClick/Build/Intermediates/OneClick.build/Debug-iphonesimulator/OneClick.build/Objects-normal/i386/AppDelegate.o /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Products/Debug-iphonesimulator/OneClick.app/OneClick normal i386
+cGenerateDSYMFile /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Products/Debug-iphonesimulator/OneClick.app.dSYM /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Products/Debug-iphonesimulator/OneClick.app/OneClick
+cCopyStringsFile /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Products/Debug-iphonesimulator/OneClick.app/en.lproj/InfoPlist.strings OneClick/en.lproj/InfoPlist.strings
+cCpResource OneClick/NCStateLogo.png DerivedData/OneClick/Build/Products/Debug-iphonesimulator/OneClick.app/NCStateLogo.png
+cCpResource OneClick/NCStateLogo@2x.png DerivedData/OneClick/Build/Products/Debug-iphonesimulator/OneClick.app/NCStateLogo@2x.png
+cCpResource OneClick/VCLLogo.png DerivedData/OneClick/Build/Products/Debug-iphonesimulator/OneClick.app/VCLLogo.png
+cCpResource OneClick/row.gif DerivedData/OneClick/Build/Products/Debug-iphonesimulator/OneClick.app/row.gif
+cCompileStoryboard /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/en.lproj/iPad.storyboard
+cCompileStoryboard /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/en.lproj/iPhone.storyboard
+cTouch /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Products/Debug-iphonesimulator/OneClick.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk
+c000000004F453DF80000000000000110
+t1329937912
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004FDCDFA70000000000244490
+t1339875239
+s2376848
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004FDCDFA80000000000353830
+t1339875240
+s3487792
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004FDCDFAE0000000000905E40
+t1339875246
+s9461312
+
+N/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/OneClick.build/Debug-iphonesimulator/OneClick.build/Objects-normal/i386/AppDelegate.o
+t2
+s0
+
+N/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/OneClick.build/Debug-iphonesimulator/OneClick.build/Objects-normal/i386/OneClick.LinkFileList
+c000000004FDF69D7000000000000015F
+t1340041687
+s351
+
+N/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/OneClick.build/Debug-iphonesimulator/OneClick.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/PrecompiledHeaders/OneClick-Prefix-hgdhbisspitpzggejzfpnjzwcagg/OneClick-Prefix.pch.pth
+t2
+s0
+
+N/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Products/Debug-iphonesimulator/OneClick.app
+t2
+s0
+
+N/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Products/Debug-iphonesimulator/OneClick.app.dSYM
+t2
+s0
+
+N/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Products/Debug-iphonesimulator/OneClick.app/Info.plist
+t2
+s0
+
+N/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Products/Debug-iphonesimulator/OneClick.app/NCStateLogo.png
+t2
+s0
+
+N/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Products/Debug-iphonesimulator/OneClick.app/NCStateLogo@2x.png
+t2
+s0
+
+N/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Products/Debug-iphonesimulator/OneClick.app/OneClick
+t2
+s0
+
+N/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Products/Debug-iphonesimulator/OneClick.app/PkgInfo
+t2
+s0
+
+N/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Products/Debug-iphonesimulator/OneClick.app/VCLLogo.png
+t2
+s0
+
+N/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Products/Debug-iphonesimulator/OneClick.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Products/Debug-iphonesimulator/OneClick.app/en.lproj/iPad.storyboardc
+t2
+s0
+
+N/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Products/Debug-iphonesimulator/OneClick.app/en.lproj/iPhone.storyboardc
+t2
+s0
+
+N/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Products/Debug-iphonesimulator/OneClick.app/row.gif
+t2
+s0
+
+N/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Products/Debug-iphonesimulator/libXMLRPC_iOS.a
+c000000004FDF69D7000000000002CB90
+t1340041687
+s183184
+
+N/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/AppDelegate.m
+c000000004FDF69370000000000000965
+t1340041527
+s2405
+
+N/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/NCStateLogo.png
+c000000004FDCC46B000000000000060A
+t1339868267
+s1546
+
+N/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/NCStateLogo@2x.png
+c000000004FDCC4AE0000000000000C1E
+t1339868334
+s3102
+
+N/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/OneClick-Prefix.pch
+c000000004FDF69000000000000000139
+t1340041472
+s313
+
+N/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/VCLLogo.png
+c000000004FDCC782000000000000752A
+t1339869058
+s29994
+
+N/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/en.lproj/InfoPlist.strings
+c000000004FDF61A0000000000000002D
+t1340039584
+s45
+
+N/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/en.lproj/iPad.storyboard
+c000000004FDF6687000000000000CCF1
+t1340040839
+s52465
+
+N/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/en.lproj/iPhone.storyboard
+c000000004FDF6688000000000000B606
+t1340040840
+s46598
+
+N/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/main.m
+c000000004FDF69360000000000000153
+t1340041526
+s339
+
+N/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/row.gif
+c000000004FDE90B400000000000002DD
+t1339986100
+s733
+
+NOneClick/OneClick-Info.plist
+c000000004FDF65F9000000000000064D
+t1340040697
+s1613
+
+CBuild AST from /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/AppDelegate.m
+r0
+
+CBuild AST from /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies34f37c57a18fb541^c05d7e57a18fb541^---0#1#0#--18"Check dependencies36"28E333B8-DCEC-4DCB-BAA6-5212F6A1E05F-
+
+CCompileC DerivedData/OneClick/Build/Intermediates/OneClick.build/Debug-iphonesimulator/OneClick.build/Objects-normal/i386/AppDelegate.o /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s361734488.014326
+e361734488.118455
+r1
+xCompileC
+xDerivedData/OneClick/Build/Intermediates/OneClick.build/Debug-iphonesimulator/OneClick.build/Objects-normal/i386/AppDelegate.o
+x/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compile /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/AppDelegate.mb6d60358a18fb541^f0521e58a18fb541^---0#0#0#-19%DVTDocumentLocation2@90"file://localhost/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/AppDelegate.m0000000000000000^3860"CompileC DerivedData/OneClick/Build/Intermediates/OneClick.build/Debug-iphonesimulator/OneClick.build/Objects-normal/i386/AppDelegate.o OneClick/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/OneClick.build/Debug-iphonesimulator/OneClick.build/OneClick-generated-files.hmap -I/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/OneClick.build/Debug-iphonesimulator/OneClick.build/OneClick-own-target-headers.hmap -I/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/OneClick.build/Debug-iphonesimulator/OneClick.build/OneClick-all-target-headers.hmap -iquote /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/OneClick.build/Debug-iphonesimulator/OneClick.build/OneClick-project-headers.hmap -I/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Products/Debug-iphonesimulator/include -I/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/OneClick.build/Debug-iphonesimulator/OneClick.build/DerivedSources/i386 -I/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/OneClick.build/Debug-iphonesimulator/OneClick.build/DerivedSources -F/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Products/Debug-iphonesimulator -include /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/PrecompiledHeaders/OneClick-Prefix-hgdhbisspitpzggejzfpnjzwcagg/OneClick-Prefix.pch -MMD -MT dependencies -MF /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/OneClick.build/Debug-iphonesimulator/OneClick.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/OneClick.build/Debug-iphonesimulator/OneClick.build/Objects-normal/i386/AppDelegate.dia -c /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/AppDelegate.m -o /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/OneClick.build/Debug-iphonesimulator/OneClick.build/Objects-normal/i386/AppDelegate.o36"1AF25AE4-B696-48D2-903D-E1ADE14E3B1F-
+
+CCompileC DerivedData/OneClick/Build/Intermediates/OneClick.build/Debug-iphonesimulator/OneClick.build/Objects-normal/i386/main.o /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s361734488.013216
+e361734488.066248
+r1
+xCompileC
+xDerivedData/OneClick/Build/Intermediates/OneClick.build/Debug-iphonesimulator/OneClick.build/Objects-normal/i386/main.o
+x/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/main.mdd970358a18fb541^5ef51058a18fb541^---0#0#0#-19%DVTDocumentLocation2@83"file://localhost/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/main.m0000000000000000^3818"CompileC DerivedData/OneClick/Build/Intermediates/OneClick.build/Debug-iphonesimulator/OneClick.build/Objects-normal/i386/main.o OneClick/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/OneClick.build/Debug-iphonesimulator/OneClick.build/OneClick-generated-files.hmap -I/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/OneClick.build/Debug-iphonesimulator/OneClick.build/OneClick-own-target-headers.hmap -I/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/OneClick.build/Debug-iphonesimulator/OneClick.build/OneClick-all-target-headers.hmap -iquote /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/OneClick.build/Debug-iphonesimulator/OneClick.build/OneClick-project-headers.hmap -I/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Products/Debug-iphonesimulator/include -I/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/OneClick.build/Debug-iphonesimulator/OneClick.build/DerivedSources/i386 -I/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/OneClick.build/Debug-iphonesimulator/OneClick.build/DerivedSources -F/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Products/Debug-iphonesimulator -include /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/PrecompiledHeaders/OneClick-Prefix-hgdhbisspitpzggejzfpnjzwcagg/OneClick-Prefix.pch -MMD -MT dependencies -MF /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/OneClick.build/Debug-iphonesimulator/OneClick.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/OneClick.build/Debug-iphonesimulator/OneClick.build/Objects-normal/i386/main.dia -c /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/main.m -o /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/OneClick.build/Debug-iphonesimulator/OneClick.build/Objects-normal/i386/main.o36"A587DA4B-7B7D-4E5A-A714-F895B3C7BB70-
+
+CCompileStoryboard /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/en.lproj/iPad.storyboard
+s361734488.464982
+e361734490.326617
+r1
+xCompileStoryboard
+x/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/en.lproj/iPad.storyboard
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"CompileStoryboard OneClick/en.lproj/iPad.storyboard80297758a18fb541^809d535aa18fb541^---0#0#0#-19%DVTDocumentLocation2@101"file://localhost/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/en.lproj/iPad.storyboard0000000000000000^941"CompileStoryboard OneClick/en.lproj/iPad.storyboard    cd /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 5.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Products/Debug-iphonesimulator/OneClick.app/en.lproj/iPad.storyboardc /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/en.lproj/iPad.storyboard --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk36"88EE8120-2753-47CE-BA75-ED2778CCFA7C-
+
+CCompileStoryboard /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/en.lproj/iPhone.storyboard
+s361734488.467177
+e361734489.421377
+r1
+xCompileStoryboard
+x/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/en.lproj/iPhone.storyboard
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"CompileStoryboard OneClick/en.lproj/iPhone.storyboard67b67758a18fb541^a0df6b59a18fb541^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/en.lproj/iPhone.storyboard0000000000000000^947"CompileStoryboard OneClick/en.lproj/iPhone.storyboard    cd /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 5.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Products/Debug-iphonesimulator/OneClick.app/en.lproj/iPhone.storyboardc /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/en.lproj/iPhone.storyboard --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk36"6BB8300E-C5DD-4852-A77B-F1284C20E07A-
+
+CCopyStringsFile /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Products/Debug-iphonesimulator/OneClick.app/en.lproj/InfoPlist.strings OneClick/en.lproj/InfoPlist.strings
+s361734488.459448
+e361734488.463161
+r1
+xCopyStringsFile
+x/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Products/Debug-iphonesimulator/OneClick.app/en.lproj/InfoPlist.strings
+xOneClick/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection40"Copy OneClick/en.lproj/InfoPlist.stringsadbf7558a18fb541^289b7658a18fb541^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/en.lproj/InfoPlist.strings0000000000000000^665"CopyStringsFile DerivedData/OneClick/Build/Products/Debug-iphonesimulator/OneClick.app/en.lproj/InfoPlist.strings OneClick/en.lproj/InfoPlist.strings    cd /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Products/Debug-iphonesimulator/OneClick.app/en.lproj -- OneClick/en.lproj/InfoPlist.strings36"9839416D-2A16-431F-BEDE-FA9B72BEB65B-
+
+CCpResource OneClick/NCStateLogo.png DerivedData/OneClick/Build/Products/Debug-iphonesimulator/OneClick.app/NCStateLogo.png
+s361734488.460210
+e361734488.463570
+r1
+xCpResource
+xOneClick/NCStateLogo.png
+xDerivedData/OneClick/Build/Products/Debug-iphonesimulator/OneClick.app/NCStateLogo.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Copy DerivedData/OneClick/Build/Products/Debug-iphonesimulator/OneClick.app/NCStateLogo.pngd9eb7558a18fb541^efab7658a18fb541^---0#0#0#-19%DVTDocumentLocation2@154"file://localhost/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Products/Debug-iphonesimulator/OneClick.app/NCStateLogo.png000000000080d041^794"CpResource OneClick/NCStateLogo.png DerivedData/OneClick/Build/Products/Debug-iphonesimulator/OneClick.app/NCStateLogo.png    cd /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/NCStateLogo.png /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Products/Debug-iphonesimulator/OneClick.app36"29B0A7C6-25B2-4E65-B678-3241B7E6F12B-
+
+CCpResource OneClick/NCStateLogo@2x.png DerivedData/OneClick/Build/Products/Debug-iphonesimulator/OneClick.app/NCStateLogo@2x.png
+s361734488.460826
+e361734488.466397
+r1
+xCpResource
+xOneClick/NCStateLogo@2x.png
+xDerivedData/OneClick/Build/Products/Debug-iphonesimulator/OneClick.app/NCStateLogo@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Copy DerivedData/OneClick/Build/Products/Debug-iphonesimulator/OneClick.app/NCStateLogo@2x.png410e7658a18fb541^84667758a18fb541^---0#0#0#-19%DVTDocumentLocation2@157"file://localhost/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Products/Debug-iphonesimulator/OneClick.app/NCStateLogo@2x.png000000000080d041^809"CpResource "OneClick/NCStateLogo@2x.png" "DerivedData/OneClick/Build/Products/Debug-iphonesimulator/OneClick.app/NCStateLogo@2x.png"    cd /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip "/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/NCStateLogo@2x.png" /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Products/Debug-iphonesimulator/OneClick.app36"98D25AB7-13BB-4102-9DD2-F4C1C7024D89-
+
+CCpResource OneClick/VCLLogo.png DerivedData/OneClick/Build/Products/Debug-iphonesimulator/OneClick.app/VCLLogo.png
+s361734488.460879
+e361734488.465864
+r1
+xCpResource
+xOneClick/VCLLogo.png
+xDerivedData/OneClick/Build/Products/Debug-iphonesimulator/OneClick.app/VCLLogo.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Copy DerivedData/OneClick/Build/Products/Debug-iphonesimulator/OneClick.app/VCLLogo.pngfe0d7658a18fb541^564a7758a18fb541^---0#0#0#-19%DVTDocumentLocation2@150"file://localhost/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Products/Debug-iphonesimulator/OneClick.app/VCLLogo.png000000000080d041^782"CpResource OneClick/VCLLogo.png DerivedData/OneClick/Build/Products/Debug-iphonesimulator/OneClick.app/VCLLogo.png    cd /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/VCLLogo.png /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Products/Debug-iphonesimulator/OneClick.app36"E0B5CF9B-E844-4528-A31E-3514BBDF90FB-
+
+CCpResource OneClick/row.gif DerivedData/OneClick/Build/Products/Debug-iphonesimulator/OneClick.app/row.gif
+s361734488.464364
+e361734488.467970
+r1
+xCpResource
+xOneClick/row.gif
+xDerivedData/OneClick/Build/Products/Debug-iphonesimulator/OneClick.app/row.gif
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Copy DerivedData/OneClick/Build/Products/Debug-iphonesimulator/OneClick.app/row.gif9cf87658a18fb541^e5d37758a18fb541^---0#0#0#-19%DVTDocumentLocation2@146"file://localhost/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Products/Debug-iphonesimulator/OneClick.app/row.gif000000000080d041^770"CpResource OneClick/row.gif DerivedData/OneClick/Build/Products/Debug-iphonesimulator/OneClick.app/row.gif    cd /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/row.gif /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Products/Debug-iphonesimulator/OneClick.app36"A83A8587-54D7-4BC5-ACB4-1AB872E27203-
+
+CGenerateDSYMFile /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Products/Debug-iphonesimulator/OneClick.app.dSYM /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Products/Debug-iphonesimulator/OneClick.app/OneClick
+s361734488.409015
+e361734488.451264
+r1
+xGenerateDSYMFile
+x/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Products/Debug-iphonesimulator/OneClick.app.dSYM
+x/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Products/Debug-iphonesimulator/OneClick.app/OneClick
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection138"Generating /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Products/Debug-iphonesimulator/OneClick.app.dSYMe6ce6858a18fb541^7b877358a18fb541^---0#0#0#-19%DVTDocumentLocation2@143"file://localhost/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Products/Debug-iphonesimulator/OneClick.app.dSYM000000000080d041^799"GenerateDSYMFile DerivedData/OneClick/Build/Products/Debug-iphonesimulator/OneClick.app.dSYM DerivedData/OneClick/Build/Products/Debug-iphonesimulator/OneClick.app/OneClick    cd /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/dsymutil /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Products/Debug-iphonesimulator/OneClick.app/OneClick -o /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Products/Debug-iphonesimulator/OneClick.app.dSYM36"3A7EE4A4-C495-4919-9CDC-428D2F170857-
+
+CLd /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Products/Debug-iphonesimulator/OneClick.app/OneClick normal i386
+s361734488.126101
+e361734488.401351
+r1
+xLd
+x/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Products/Debug-iphonesimulator/OneClick.app/OneClick
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection136"Link /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Products/Debug-iphonesimulator/OneClick.app/OneClick556c2058a18fb541^24d66658a18fb541^---0#0#0#--1514"Ld DerivedData/OneClick/Build/Products/Debug-iphonesimulator/OneClick.app/OneClick normal i386    cd /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -L/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Products/Debug-iphonesimulator -F/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Products/Debug-iphonesimulator -filelist /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/OneClick.build/Debug-iphonesimulator/OneClick.build/Objects-normal/i386/OneClick.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -Xlinker -no_implicit_dylibs -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Products/Debug-iphonesimulator/libXMLRPC_iOS.a -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Products/Debug-iphonesimulator/OneClick.app/OneClick36"51795D08-B308-4F70-913C-7C19F11EC64C-
+
+CProcessInfoPlistFile /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Products/Debug-iphonesimulator/OneClick.app/Info.plist OneClick/OneClick-Info.plist
+s361734487.498920
+e361734487.502758
+r1
+xProcessInfoPlistFile
+x/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Products/Debug-iphonesimulator/OneClick.app/Info.plist
+xOneClick/OneClick-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Process OneClick/OneClick-Info.plistd8d67f57a18fb541^54c58057a18fb541^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/OneClick-Info.plist0000000000000000^786"ProcessInfoPlistFile DerivedData/OneClick/Build/Products/Debug-iphonesimulator/OneClick.app/Info.plist OneClick/OneClick-Info.plist    cd /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility OneClick/OneClick-Info.plist -genpkginfo /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Products/Debug-iphonesimulator/OneClick.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Products/Debug-iphonesimulator/OneClick.app/Info.plist36"5184A94F-15E1-46CF-B379-29261AC1173D-
+
+CProcessPCH /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/PrecompiledHeaders/OneClick-Prefix-hgdhbisspitpzggejzfpnjzwcagg/OneClick-Prefix.pch.pth OneClick/OneClick-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s361734487.511149
+e361734488.006296
+r1
+xProcessPCH
+x/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/PrecompiledHeaders/OneClick-Prefix-hgdhbisspitpzggejzfpnjzwcagg/OneClick-Prefix.pch.pth
+xOneClick/OneClick-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile OneClick/OneClick-Prefix.pch5f0a8357a18fb541^31b50158a18fb541^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/OneClick-Prefix.pch0000000000000000^3699"ProcessPCH DerivedData/OneClick/Build/Intermediates/PrecompiledHeaders/OneClick-Prefix-hgdhbisspitpzggejzfpnjzwcagg/OneClick-Prefix.pch.pth OneClick/OneClick-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/OneClick.build/Debug-iphonesimulator/OneClick.build/OneClick-generated-files.hmap -I/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/OneClick.build/Debug-iphonesimulator/OneClick.build/OneClick-own-target-headers.hmap -I/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/OneClick.build/Debug-iphonesimulator/OneClick.build/OneClick-all-target-headers.hmap -iquote /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/OneClick.build/Debug-iphonesimulator/OneClick.build/OneClick-project-headers.hmap -I/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Products/Debug-iphonesimulator/include -I/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/OneClick.build/Debug-iphonesimulator/OneClick.build/DerivedSources/i386 -I/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/OneClick.build/Debug-iphonesimulator/OneClick.build/DerivedSources -F/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/PrecompiledHeaders/OneClick-Prefix-hgdhbisspitpzggejzfpnjzwcagg/OneClick-Prefix.pch.dia -c /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/OneClick/OneClick-Prefix.pch -o /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/PrecompiledHeaders/OneClick-Prefix-hgdhbisspitpzggejzfpnjzwcagg/OneClick-Prefix.pch.pth -MMD -MT dependencies -MF /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Intermediates/PrecompiledHeaders/OneClick-Prefix-hgdhbisspitpzggejzfpnjzwcagg/OneClick-Prefix.pch.d36"E0AB2903-857E-40CF-9D13-78E329651CBB-
+
+CProcessPCH /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Index/PrecompiledHeaders/OneClick-Prefix-dlrhdldqqapglleqdvkzpveolurs_ast/OneClick-Prefix.pch.pth OneClick/OneClick-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Products/Debug-iphonesimulator/OneClick.app
+s361734490.334975
+e361734490.343792
+r1
+xTouch
+x/Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Products/Debug-iphonesimulator/OneClick.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection128"Touch /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Products/Debug-iphonesimulator/OneClick.app3cdd555aa18fb541^bc03585aa18fb541^---0#0#0#--476"Touch DerivedData/OneClick/Build/Products/Debug-iphonesimulator/OneClick.app    cd /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/ignacioxd/Dropbox/Projects/OneClick/OneClick/DerivedData/OneClick/Build/Products/Debug-iphonesimulator/OneClick.app36"1B81CB9B-A569-40BB-ADC3-1B0B08F8A732-
+
