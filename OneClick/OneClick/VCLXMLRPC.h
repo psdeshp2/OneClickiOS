@@ -34,8 +34,8 @@
 - (void)getIP;
 - (void)getOneClicks;
 - (void)getOneClickParametersWithID:(NSNumber *)oneClickID;
-- (void)addOneClick:(NSString *)name withImage:(NSNumber *)imageID withDuration:(NSNumber *)length withAutologin:(BOOL)autologin;
-- (void)editOneClick:(NSNumber *)oneClickID withName:(NSString *)name withImage:(NSNumber *)imageID withDuration:(NSNumber *)length withAutologin:(BOOL)autologin;
+- (void)addOneClick:(NSString *)name withImage:(NSNumber *)imageID withDuration:(NSNumber *)length withAutologin:(BOOL)autologin withPath:(NSString *)path;
+- (void)editOneClick:(NSNumber *)oneClickID withName:(NSString *)name withImage:(NSNumber *)imageID withDuration:(NSNumber *)length withAutologin:(BOOL)autologin withPath:(NSString *)path;
 
 - (void)deleteOneClick:(NSNumber *)oneClickID;
 - (void)getImages;

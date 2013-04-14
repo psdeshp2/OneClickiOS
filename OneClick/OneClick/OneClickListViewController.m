@@ -190,7 +190,7 @@ static id instance = nil;
 }
 
 - (void)oneClickInputDone:(OneClickInputViewController *)sender withResult:(OneClick *)oneClick {
-	[self.vclXMLRPC addOneClick:oneClick.name withImage:oneClick.imageID withDuration:oneClick.length withAutologin:oneClick.autoLogin];
+	[self.vclXMLRPC addOneClick:oneClick.name withImage:oneClick.imageID withDuration:oneClick.length withAutologin:oneClick.autoLogin withPath:oneClick.path];
 	[self oneClickInputCancel:sender];
 	[self addOneClick:oneClick atIndex:0];
 }

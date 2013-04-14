@@ -14,7 +14,7 @@
 
 @protocol ImageListDelegate <NSObject>
 
-- (void)imageListViewController:(ImageListViewController *)sender didSelectImage: (NSString *)name withID:(NSNumber *)ID;
+- (void)imageListViewController:(ImageListViewController *)sender didSelectImage: (NSString *)name withID:(NSNumber *)ID withOSType:(NSString *)ostype;
 
 - (void)imageListViewController:(ImageListViewController *)sender didFailWithError: (NSError *)error;
 

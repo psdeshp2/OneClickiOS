@@ -17,6 +17,8 @@
 @property (nonatomic, strong) NSString *osType;
 @property (nonatomic, strong) NSNumber *length;
 @property BOOL autoLogin;
+@property (nonatomic, strong) NSString *path;
+
 
 + (OneClick *)oneClickFromDictionary:(NSDictionary *)object;
 

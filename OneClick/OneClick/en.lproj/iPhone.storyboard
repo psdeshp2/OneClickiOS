@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="2.0" toolsVersion="2844" systemVersion="12C60" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" initialViewController="YS5-6J-1z1">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="2.0" toolsVersion="3084" systemVersion="12D78" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" initialViewController="YS5-6J-1z1">
     <dependencies>
-        <deployment defaultVersion="1536" identifier="iOS"/>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="1930"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="2083"/>
     </dependencies>
     <scenes>
         <!--Tab Bar View Controller-->
@@ -708,7 +707,7 @@ With the ongoing support from the College of Engineering, OIT, academic and corp
                                         </connections>
                                     </tableViewCell>
                                     <tableViewCell contentMode="scaleToFill" selectionStyle="none" hidesAccessoryWhenEditing="NO" indentationLevel="1" indentationWidth="0.0" id="xKt-1I-8wJ">
-                                        <rect key="frame" x="0.0" y="143" width="320" height="45"/>
+                                        <rect key="frame" x="0.0" y="143" width="320" height="44"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
                                             <rect key="frame" x="10" y="0.0" width="300" height="43"/>
@@ -728,6 +727,26 @@ With the ongoing support from the College of Engineering, OIT, academic and corp
                                                         <action selector="autologinSwitchChanged:" destination="HKo-lN-6Pk" eventType="valueChanged" id="ZOt-sm-jzg"/>
                                                     </connections>
                                                 </switch>
+                                            </subviews>
+                                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                                        </view>
+                                    </tableViewCell>
+                                    <tableViewCell contentMode="scaleToFill" selectionStyle="none" hidesAccessoryWhenEditing="NO" indentationLevel="1" indentationWidth="0.0" id="Byq-Fn-N2d">
+                                        <rect key="frame" x="0.0" y="187" width="320" height="45"/>
+                                        <autoresizingMask key="autoresizingMask"/>
+                                        <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                                            <rect key="frame" x="10" y="0.0" width="300" height="43"/>
+                                            <autoresizingMask key="autoresizingMask"/>
+                                            <subviews>
+                                                <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" placeholder="Application Path" minimumFontSize="17" clearButtonMode="always" id="QWy-Qg-D1C" userLabel="Text Field - Application Path">
+                                                    <rect key="frame" x="6" y="6" width="294" height="31"/>
+                                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                                    <fontDescription key="fontDescription" type="system" pointSize="16"/>
+                                                    <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                                                    <connections>
+                                                        <action selector="pathTextChanged:" destination="HKo-lN-6Pk" eventType="editingChanged" id="MHC-di-R3U"/>
+                                                    </connections>
+                                                </textField>
                                             </subviews>
                                             <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
                                         </view>
@@ -757,6 +776,7 @@ With the ongoing support from the College of Engineering, OIT, academic and corp
                         <outlet property="cellEnvironment" destination="KGG-1c-Ik9" id="JgZ-HI-AMr"/>
                         <outlet property="switchAutologin" destination="ozj-IU-oKs" id="wFn-kC-bTq"/>
                         <outlet property="textName" destination="GvP-j5-1uY" id="vBc-Xw-CH0"/>
+                        <outlet property="textPath" destination="QWy-Qg-D1C" id="gbt-Pf-XIX"/>
                     </connections>
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="qMJ-lW-uiN" userLabel="First Responder" sceneMemberID="firstResponder"/>
@@ -772,7 +792,7 @@ With the ongoing support from the College of Engineering, OIT, academic and corp
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                         <prototypes>
-                            <tableViewCell contentMode="scaleToFill" selectionStyle="blue" hidesAccessoryWhenEditing="NO" indentationLevel="1" indentationWidth="0.0" reuseIdentifier="Cell" textLabel="oJX-a6-65Z" style="IBUITableViewCellStyleDefault" id="MMM-f8-Jqb">
+                            <tableViewCell contentMode="scaleToFill" selectionStyle="blue" hidesAccessoryWhenEditing="NO" indentationLevel="1" indentationWidth="0.0" reuseIdentifier="Cell" textLabel="oJX-a6-65Z" detailTextLabel="jM1-wv-g52" style="IBUITableViewCellStyleSubtitle" id="MMM-f8-Jqb">
                                 <rect key="frame" x="0.0" y="46" width="320" height="46"/>
                                 <autoresizingMask key="autoresizingMask"/>
                                 <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
@@ -780,10 +800,17 @@ With the ongoing support from the College of Engineering, OIT, academic and corp
                                     <autoresizingMask key="autoresizingMask"/>
                                     <subviews>
                                         <label opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="left" text="Title" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="oJX-a6-65Z">
-                                            <rect key="frame" x="10" y="0.0" width="280" height="43"/>
+                                            <rect key="frame" x="10" y="2" width="38" height="22"/>
                                             <autoresizingMask key="autoresizingMask"/>
-                                            <fontDescription key="fontDescription" type="boldSystem" pointSize="17"/>
+                                            <fontDescription key="fontDescription" type="boldSystem" pointSize="18"/>
                                             <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                                            <color key="highlightedColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                        </label>
+                                        <label opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="left" text="Subtitle" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="jM1-wv-g52">
+                                            <rect key="frame" x="10" y="24" width="47" height="18"/>
+                                            <autoresizingMask key="autoresizingMask"/>
+                                            <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                            <color key="textColor" red="0.50196078431372548" green="0.50196078431372548" blue="0.50196078431372548" alpha="1" colorSpace="calibratedRGB"/>
                                             <color key="highlightedColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                         </label>
                                     </subviews>
@@ -1032,12 +1059,11 @@ With the ongoing support from the College of Engineering, OIT, academic and corp
         <class className="OneClickInputViewController" superclassName="UITableViewController">
             <source key="sourceIdentifier" type="project" relativePath="./Classes/OneClickInputViewController.h"/>
             <relationships>
-                <relationship kind="action" name="cancelButtonPressed:" candidateClass="UIBarButtonItem"/>
-                <relationship kind="action" name="doneButtonPressed:" candidateClass="UIBarButtonItem"/>
                 <relationship kind="outlet" name="cellDuration" candidateClass="UITableViewCell"/>
                 <relationship kind="outlet" name="cellEnvironment" candidateClass="UITableViewCell"/>
                 <relationship kind="outlet" name="switchAutologin" candidateClass="UISwitch"/>
                 <relationship kind="outlet" name="textName" candidateClass="UITextField"/>
+                <relationship kind="outlet" name="textPath" candidateClass="UITextField"/>
             </relationships>
         </class>
         <class className="OneClickListViewController" superclassName="PullRefreshTableViewController">
@@ -1049,7 +1075,6 @@ With the ongoing support from the College of Engineering, OIT, academic and corp
         <class className="ReservationDetailViewController" superclassName="UIViewController">
             <source key="sourceIdentifier" type="project" relativePath="./Classes/ReservationDetailViewController.h"/>
             <relationships>
-                <relationship kind="action" name="endReservation:" candidateClass="UIBarButtonItem"/>
                 <relationship kind="outlet" name="defaultView" candidateClass="UIView"/>
                 <relationship kind="outlet" name="labelEnd" candidateClass="UILabel"/>
                 <relationship kind="outlet" name="labelName" candidateClass="UILabel"/>
@@ -1073,7 +1098,6 @@ With the ongoing support from the College of Engineering, OIT, academic and corp
         <class className="SettingsViewController" superclassName="UITableViewController">
             <source key="sourceIdentifier" type="project" relativePath="./Classes/SettingsViewController.h"/>
             <relationships>
-                <relationship kind="action" name="signOut:" candidateClass="UIButton"/>
                 <relationship kind="outlet" name="rdpCell" candidateClass="UITableViewCell"/>
                 <relationship kind="outlet" name="sshCell" candidateClass="UITableViewCell"/>
                 <relationship kind="outlet" name="usernameCell" candidateClass="UITableViewCell"/>
@@ -1089,8 +1113,8 @@ With the ongoing support from the College of Engineering, OIT, academic and corp
         <simulatedScreenMetrics key="destination"/>
     </simulatedMetricsContainer>
     <inferredMetricsTieBreakers>
-        <segue reference="sfW-N9-lr7"/>
-        <segue reference="zH6-96-4pN"/>
+        <segue reference="jKi-hs-PmH"/>
         <segue reference="Ra9-FF-ejJ"/>
+        <segue reference="zH6-96-4pN"/>
     </inferredMetricsTieBreakers>
 </document>

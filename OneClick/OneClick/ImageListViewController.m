@@ -54,8 +54,9 @@
     UITableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:CellIdentifier];
     
 	NSDictionary *object = [_objects objectAtIndex:indexPath.row];
-	cell.textLabel.text = [object objectForKey:@"name"];
 	
+	cell.textLabel.text = [object objectForKey:@"name"];
+	cell.detailTextLabel.text = [[object objectForKey:@"ostype"] stringByReplacingCharactersInRange:NSMakeRange(0,1) withString:[[[object objectForKey:@"ostype"]  substringToIndex:1] capitalizedString]];
     if([NSNumber numberWithInt:[[object objectForKey:@"id"] intValue]] == self.selectedImageID) {
 		cell.accessoryType = UITableViewCellAccessoryCheckmark;
 	}
@@ -70,7 +71,7 @@
 - (void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath
 {
 	NSDictionary *object = [_objects objectAtIndex:indexPath.row];
-	[self.delegate imageListViewController:self didSelectImage:[object objectForKey:@"name"] withID:[NSNumber numberWithInt:[[object objectForKey:@"id"] intValue]]];
+	[self.delegate imageListViewController:self didSelectImage:[object objectForKey:@"name"] withID:[NSNumber numberWithInt:[[object objectForKey:@"id"] intValue]] withOSType:[object objectForKey:@"ostype"]];
 }
 
 #pragma mark - OneClick
@@ -95,6 +96,7 @@
 		[self addImage:object atIndex:i];
 		i++;
 	}
+	NSLog(@"Result %@", [response object]);
 	[self stopLoading];
 }
 

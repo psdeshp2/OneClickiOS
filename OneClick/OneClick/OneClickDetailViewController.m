@@ -63,7 +63,6 @@
 		self.labelDuration.text = [OneClick minutesToString:self.oneClick.length];
 		
 		self.platformLogo.image = [UIImage imageNamed:[NSString stringWithFormat:@"%@.png", [self.oneClick osType]]];
-		
 		[self.defaultView setHidden:YES];
 		
 		[[self.navigationItem rightBarButtonItem] setEnabled:YES];
@@ -148,7 +147,7 @@
 }
 
 - (void)oneClickInputDone:(OneClickInputViewController *)sender withResult:(OneClick *)oneClick {
-	[self.vclXMLRPC editOneClick:oneClick.ID withName:oneClick.name withImage:oneClick.imageID withDuration:oneClick.length withAutologin:oneClick.autoLogin];
+	[self.vclXMLRPC editOneClick:oneClick.ID withName:oneClick.name withImage:oneClick.imageID withDuration:oneClick.length withAutologin:oneClick.autoLogin withPath:oneClick.path];
 	[self oneClickInputCancel:sender];
 }
 

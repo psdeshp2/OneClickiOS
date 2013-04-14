@@ -17,6 +17,7 @@
 @synthesize osType = _osType;
 @synthesize length = _length;
 @synthesize autoLogin = _autoLogin;
+@synthesize path = _path;
 
 
 + (OneClick *)oneClickFromDictionary:(NSDictionary *)object {
@@ -29,6 +30,7 @@
 	newOneClick.osType = (NSString *)[object objectForKey:@"ostype"];
 	newOneClick.length = [NSNumber numberWithInt:[(NSString *)[object objectForKey:@"duration"] intValue]];
 	newOneClick.autoLogin = [[NSString stringWithFormat:@"%@", [object objectForKey:@"autologin"]] isEqualToString:@"1"];
+    newOneClick.path = (NSString *)[object objectForKey:@"path"];
 	
 	return newOneClick;
 }
@@ -46,6 +48,7 @@
 	copy.osType = [self.osType copyWithZone:zone];
 	copy.length = [self.length copyWithZone:zone];
 	copy.autoLogin = self.autoLogin;
+    copy.path = [self.path copyWithZone:zone];
 	return copy;
 }
 

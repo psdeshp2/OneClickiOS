@@ -14,6 +14,7 @@
 @property (strong, nonatomic) IBOutlet UITableViewCell *cellEnvironment;
 @property (strong, nonatomic) IBOutlet UITableViewCell *cellDuration;
 @property (strong, nonatomic) IBOutlet UISwitch *switchAutologin;
+@property (strong, nonatomic) IBOutlet UITextField *textPath;
 
 - (void)configureView;
 - (void)validateOneClick;
@@ -26,6 +27,7 @@
 @synthesize cellEnvironment = _cellEnvironment;
 @synthesize cellDuration = _cellDuration;
 @synthesize switchAutologin = _switchAutologin;
+@synthesize textPath = _textPath;
 
 @synthesize delegate = _delegate;
 @synthesize oneClick = _oneClick;
@@ -58,6 +60,7 @@
 	[self setCellDuration:nil];
 	[self setSwitchAutologin:nil];
 	[self setTextName:nil];
+    [self setTextPath:nil];
     [super viewDidUnload];
     // Release any retained subviews of the main view.
     // e.g. self.myOutlet = nil;
@@ -97,8 +100,8 @@
 	if(self.oneClick.length)
 		[self.cellDuration.detailTextLabel setText:[OneClick minutesToString:self.oneClick.length]];
 	[self.switchAutologin setOn:self.oneClick.autoLogin];
-	
-	
+    if(self.oneClick.path)
+		[self.textPath setText:self.oneClick.path];
 	
 	[self validateOneClick];
 }
@@ -126,6 +129,11 @@
 	[self validateOneClick];
 }
 
+- (IBAction)pathTextChanged:(UITextField *)sender {
+	self.oneClick.path = sender.text;
+	[self validateOneClick];
+}
+
 - (IBAction)autologinSwitchChanged:(UISwitch *)sender {
 	self.oneClick.autoLogin = sender.isOn;
 }
@@ -142,9 +150,10 @@
 
 #pragma mark - Image selection delegate
 
-- (void)imageListViewController:(ImageListViewController *)sender didSelectImage: (NSString *)name withID:(NSNumber *)ID {
+- (void)imageListViewController:(ImageListViewController *)sender didSelectImage: (NSString *)name withID:(NSNumber *)ID withOSType:(NSString *)ostype {
 	self.oneClick.imageID = ID;
 	self.oneClick.imageName = name;
+	self.oneClick.osType = ostype;
 	[self.navigationController popViewControllerAnimated:YES];
 	[self configureView];
 }

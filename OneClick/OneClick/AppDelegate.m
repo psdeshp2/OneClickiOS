@@ -18,7 +18,7 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
 	
-	RDPServer *rdpServer = [[RDPServer alloc] init];
+	/*RDPServer *rdpServer = [[RDPServer alloc] init];
 	NSNumber *port = [rdpServer serveRDPToHost:@"rdpdemo.ericom.com" forUser:@"demo"withPassword:@"demo"];
 	
 	
@@ -27,7 +27,7 @@
 	NSURL *URL = [NSURL URLWithString: URLScheme];
 	
 	UIApplication *ourApplication = [UIApplication sharedApplication];
-	[ourApplication performSelector:@selector(openURL:) withObject:URL afterDelay:3];
+	[ourApplication performSelector:@selector(openURL:) withObject:URL afterDelay:3];*/
 	
     // Override point for customization after application launch.
 	if ([[UIDevice currentDevice] userInterfaceIdiom] == UIUserInterfaceIdiomPad) {

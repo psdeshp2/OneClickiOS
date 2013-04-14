@@ -6,13 +6,20 @@
 //  Copyright (c) 2012 __MyCompanyName__. All rights reserved.
 //
 
+#define VCLURL @"https://152.46.17.55/index.php?mode=xmlrpccall"
+
+//#define VCLURL @"https://vcl.ncsu.edu/sch_update/index.php?mode=xmlrpccall"
+
+//#define VCLURL @"https://152.46.17.55/index.php?mode=xmlrpccall"
+
+/*
+ #define VCLURL @"https://vcl.ncsu.edu/sch_update/index.php?mode=xmlrpccall"
 
 #ifdef DEBUG
 #define VCLURL @"https://152.46.19.9/index.php?mode=xmlrpccall"
 #else
 #define VCLURL @"https://vcl.ncsu.edu/scheduling/index.php?mode=xmlrpccall"
-#endif
-
+#endif*/
 
 #define keychainCredentialKey @"VCLOneClickCredentials"
 

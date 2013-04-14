@@ -114,6 +114,7 @@ static id instance = nil;
 	[dateFormatter setDateFormat:@"EEE, MMM d, yyyy 'at' h:mm a"];
 	
 	cell.detailTextLabel.text = [NSString stringWithFormat:@"Ends on %@", [dateFormatter stringFromDate:[object endDate]]];
+	cell.imageView.image = [UIImage imageNamed:[NSString stringWithFormat:@"%@_cell.png", [object osType]]];
     return cell;
 }
 

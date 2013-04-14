@@ -214,14 +214,14 @@ typedef enum RequestPhases {
 	NSURL *URL = [NSURL URLWithString: URLScheme];
 	
 	if([ourApplication canOpenURL:URL]) {
-		self.labelProgress.text = [NSString stringWithFormat:@"Connecting to your %@ reservation...", self.oneClick.osType];
+		self.labelProgress.text = [NSString stringWithFormat:@"Connecting to your %@ reservation...", self.osType];
 		
 		[ourApplication performSelector:@selector(openURL:) withObject:URL afterDelay:3];
 		
 		//TODO: close popup?
 	}
 	else {
-		self.labelProgress.text = [NSString stringWithFormat:@"You have not selected a default client to connect to your %@ reservation on this device, or the selected client is not available. Please choose one in Settings.", self.oneClick.osType];
+		self.labelProgress.text = [NSString stringWithFormat:@"You have not selected a default client to connect to your %@ reservation on this device, or the selected client is not available. Please choose one in Settings.", self.osType];
 	}
 }
 
@@ -271,8 +271,6 @@ typedef enum RequestPhases {
 				NSLog(@"%@", result);
 				[self requestPhasesEnded];
 			}
-			
-			
 			break;
 		case GetStatus:
 			[self.progressBar setProgress:0.40];

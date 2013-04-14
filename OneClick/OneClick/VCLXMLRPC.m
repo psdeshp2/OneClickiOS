@@ -143,14 +143,14 @@
 	[self makeRequest];
 }
 
-- (void)addOneClick:(NSString *)name withImage:(NSNumber *)imageID withDuration:(NSNumber *)length withAutologin:(BOOL)autologin {
-	NSArray *parameters = [[NSArray alloc] initWithObjects:name, imageID, length, [NSNumber numberWithInt:(autologin ? 1 : 0)], nil];
+- (void)addOneClick:(NSString *)name withImage:(NSNumber *)imageID withDuration:(NSNumber *)length withAutologin:(BOOL)autologin withPath:(NSString *)path {
+    NSArray *parameters = [[NSArray alloc] initWithObjects:name, imageID, length, [NSNumber numberWithInt:(autologin ? 1 : 0)], path,nil];
 	[self.request setMethod:@"XMLRPCaddOneClick" withParameters:parameters];
 	[self makeRequest];
 }
 
-- (void)editOneClick:(NSNumber *)oneClickID withName:(NSString *)name withImage:(NSNumber *)imageID withDuration:(NSNumber *)length withAutologin:(BOOL)autologin {
-	NSArray *parameters = [[NSArray alloc] initWithObjects:oneClickID, name, imageID, length, [NSNumber numberWithInt:(autologin ? 1 : 0)], nil];
+- (void)editOneClick:(NSNumber *)oneClickID withName:(NSString *)name withImage:(NSNumber *)imageID withDuration:(NSNumber *)length withAutologin:(BOOL)autologin withPath:(NSString *)path {
+	NSArray *parameters = [[NSArray alloc] initWithObjects:oneClickID, name, imageID, length, [NSNumber numberWithInt:(autologin ? 1 : 0)], path,nil];
 	[self.request setMethod:@"XMLRPCeditOneClick" withParameters:parameters];
 	[self makeRequest];
 }
@@ -168,7 +168,7 @@
 }
 
 - (void)addRequestForImageID:(NSNumber *)imageID starting:(NSString *)start withDuration:(NSNumber *)length {
-	NSArray *parameters = [[NSArray alloc] initWithObjects:imageID, start, length, nil];
+	NSArray *parameters = [[NSArray alloc] initWithObjects:imageID, start, length,nil, nil];
 	[self.request setMethod:@"XMLRPCaddRequest" withParameters:parameters];
 	[self makeRequest];
 }
