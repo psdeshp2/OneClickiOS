@@ -119,7 +119,14 @@
 		ReservationViewController *destination = (ReservationViewController *)segue.destinationViewController;
 		destination.delegate = self;
 		destination.oneClick = self.oneClick;
+        destination.existingReservation = [NSNumber numberWithInt:1];
 		
+	} else if([segue.identifier isEqualToString:@"ConnectToExistingReservation"]) {
+        
+		ReservationViewController *destination = (ReservationViewController *)segue.destinationViewController;
+		destination.delegate = self;
+		destination.oneClick = self.oneClick;
+        destination.existingReservation = [NSNumber numberWithInt:0]; // 0 - make new reservation, 1 - connect to the same reservation.
 	}
 }
 

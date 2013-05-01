@@ -39,8 +39,9 @@
 
 - (void)deleteOneClick:(NSNumber *)oneClickID;
 - (void)getImages;
-- (void)addRequestForImageID:(NSNumber *)imageID starting:(NSString *)start withDuration:(NSNumber *)length;
+- (void)addRequestForImageID:(NSNumber *)imageID starting:(NSString *)start withDuration:(NSNumber *)length withOneClickID:(NSNumber *)oneClickId withFlag:(NSNumber *) existingReservation;
 - (void)endRequestWithID:(NSNumber *)requestID;
+- (void)extendRequest:(NSNumber *)requestID withDuration:(NSNumber *)length;
 - (void)getRequests;
 - (void)getRequestStatus:(NSNumber *)requestID;
 - (void)getRequestConnectData:(NSNumber *)requestID forIP:(NSString *)remoteIP;

@@ -167,8 +167,8 @@
 	[self makeRequest];
 }
 
-- (void)addRequestForImageID:(NSNumber *)imageID starting:(NSString *)start withDuration:(NSNumber *)length {
-	NSArray *parameters = [[NSArray alloc] initWithObjects:imageID, start, length,nil, nil];
+- (void)addRequestForImageID:(NSNumber *)imageID starting:(NSString *)start withDuration:(NSNumber *)length withOneClickID:(NSNumber *)oneClickId withFlag:(NSNumber *)existingReservation {
+	NSArray *parameters = [[NSArray alloc] initWithObjects:imageID, start, length,oneClickId,existingReservation, nil];
 	[self.request setMethod:@"XMLRPCaddRequest" withParameters:parameters];
 	[self makeRequest];
 }
@@ -176,6 +176,12 @@
 - (void)endRequestWithID:(NSNumber *)requestID {
 	NSArray *parameters = [[NSArray alloc] initWithObjects:requestID, nil];
 	[self.request setMethod:@"XMLRPCendRequest" withParameters:parameters];
+	[self makeRequest];
+}
+
+- (void)extendRequest:(NSNumber *)requestID withDuration:(NSNumber *)length {
+	NSArray *parameters = [[NSArray alloc] initWithObjects:requestID, length, nil];
+	[self.request setMethod:@"XMLRPCextendRequest" withParameters:parameters];
 	[self makeRequest];
 }
 

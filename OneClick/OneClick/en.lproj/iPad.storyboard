@@ -308,20 +308,20 @@ With the ongoing support from the College of Engineering, OIT, academic and corp
             <objects>
                 <tableViewController id="NNf-dg-Hxf" customClass="DurationListViewController" sceneMemberID="viewController">
                     <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="grouped" separatorStyle="singleLineEtched" rowHeight="44" sectionHeaderHeight="10" sectionFooterHeight="10" id="fNh-OY-Tqs">
-                        <rect key="frame" x="0.0" y="64" width="1024" height="704"/>
+                        <rect key="frame" x="0.0" y="64" width="703" height="704"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                         <simulatedOrientationMetrics key="simulatedOrientationMetrics" orientation="landscapeRight"/>
                         <prototypes>
                             <tableViewCell contentMode="scaleToFill" selectionStyle="blue" hidesAccessoryWhenEditing="NO" indentationLevel="1" indentationWidth="0.0" reuseIdentifier="Cell" textLabel="adc-Pd-KO0" style="IBUITableViewCellStyleDefault" id="lvc-py-J67">
-                                <rect key="frame" x="0.0" y="54" width="1024" height="46"/>
+                                <rect key="frame" x="0.0" y="54" width="703" height="46"/>
                                 <autoresizingMask key="autoresizingMask"/>
                                 <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
-                                    <rect key="frame" x="45" y="1" width="934" height="43"/>
+                                    <rect key="frame" x="43" y="1" width="617" height="43"/>
                                     <autoresizingMask key="autoresizingMask"/>
                                     <subviews>
                                         <label opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="left" text="Title" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="adc-Pd-KO0">
-                                            <rect key="frame" x="10" y="0.0" width="914" height="43"/>
+                                            <rect key="frame" x="10" y="0.0" width="597" height="43"/>
                                             <autoresizingMask key="autoresizingMask"/>
                                             <fontDescription key="fontDescription" type="boldSystem" pointSize="17"/>
                                             <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
@@ -368,7 +368,7 @@ With the ongoing support from the College of Engineering, OIT, academic and corp
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="uZO-K4-cZa">
-                                <rect key="frame" x="222" y="499" width="258" height="37"/>
+                                <rect key="frame" x="222" y="502" width="258" height="37"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="15"/>
                                 <state key="normal" title="Create Reservation and Connect">
@@ -380,6 +380,21 @@ With the ongoing support from the College of Engineering, OIT, academic and corp
                                 </state>
                                 <connections>
                                     <segue destination="Q0w-Lq-8bj" kind="modal" identifier="MakeReservation" modalPresentationStyle="formSheet" id="68N-35-MIV"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="rkL-kf-GPa">
+                                <rect key="frame" x="222" y="560" width="258" height="37"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="boldSystem" pointSize="15"/>
+                                <state key="normal" title="Connect to Existing Reservation">
+                                    <color key="titleColor" red="0.19607843459999999" green="0.30980393290000002" blue="0.52156865600000002" alpha="1" colorSpace="calibratedRGB"/>
+                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <state key="highlighted">
+                                    <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <connections>
+                                    <segue destination="Q0w-Lq-8bj" kind="modal" identifier="ConnectToExistingReservation" modalPresentationStyle="formSheet" id="YsY-RB-TXf"/>
                                 </connections>
                             </button>
                             <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="MatLab 30mins" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumFontSize="10" id="tRq-P6-WJr">
@@ -1091,12 +1106,49 @@ With the ongoing support from the College of Engineering, OIT, academic and corp
                                     <segue destination="Q0w-Lq-8bj" kind="modal" identifier="ConnectToReservation" modalPresentationStyle="formSheet" id="aXk-1A-S3z"/>
                                 </connections>
                             </button>
-                            <view contentMode="scaleToFill" id="MOn-p8-IJ8">
-                                <rect key="frame" x="0.0" y="0.0" width="703" height="704"/>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="htG-Xi-58T" userLabel="Button - Update Duration">
+                                <rect key="frame" x="399" y="485" width="138" height="37"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="boldSystem" pointSize="15"/>
+                                <state key="normal" title="Update Duration">
+                                    <color key="titleColor" red="0.19607843459999999" green="0.30980393290000002" blue="0.52156865600000002" alpha="1" colorSpace="calibratedRGB"/>
+                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <state key="highlighted">
+                                    <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <connections>
+                                    <segue destination="rnO-4L-uCJ" kind="push" identifier="UpdateDuration" id="ZX5-Nm-uXP"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="aJP-DB-5nU" userLabel="Button - Extend Duration">
+                                <rect key="frame" x="80" y="485" width="150" height="37"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="boldSystem" pointSize="15"/>
+                                <state key="normal" title="Extend Duration >">
+                                    <color key="titleColor" red="0.19607843459999999" green="0.30980393290000002" blue="0.52156865600000002" alpha="1" colorSpace="calibratedRGB"/>
+                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <state key="highlighted">
+                                    <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <connections>
+                                    <segue destination="NNf-dg-Hxf" kind="push" identifier="ExtendDuration" id="zjP-kh-8xl"/>
+                                </connections>
+                            </button>
+                            <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="Not Set" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumFontSize="10" id="RyC-sd-2mU" userLabel="Label - Duration">
+                                <rect key="frame" x="252" y="486" width="117" height="33"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <view contentMode="scaleToFill" id="5nR-A1-C3d">
+                                <rect key="frame" x="-10" y="-59" width="723" height="822"/>
                                 <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                                 <subviews>
-                                    <imageView userInteractionEnabled="NO" contentMode="center" image="LargeVCLLogo.png" id="Osc-xr-ViY">
-                                        <rect key="frame" x="0.0" y="0.0" width="703" height="704"/>
+                                    <imageView userInteractionEnabled="NO" contentMode="center" image="LargeVCLLogo.png" id="IlX-um-jXS">
+                                        <rect key="frame" x="71" y="7" width="723" height="842"/>
                                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                                     </imageView>
                                 </subviews>
@@ -1115,7 +1167,9 @@ With the ongoing support from the College of Engineering, OIT, academic and corp
                         </barButtonItem>
                     </navigationItem>
                     <connections>
-                        <outlet property="defaultView" destination="MOn-p8-IJ8" id="Tyv-Gp-QtV"/>
+                        <outlet property="defaultView" destination="5nR-A1-C3d" id="sZi-Bu-Kgi"/>
+                        <outlet property="duration" destination="RyC-sd-2mU" id="YvX-ZD-hI0"/>
+                        <outlet property="durationUpdate" destination="htG-Xi-58T" id="zSq-Sh-RDS"/>
                         <outlet property="labelEnd" destination="4SE-wG-1mH" id="irt-lr-DeO"/>
                         <outlet property="labelName" destination="qDC-HK-meg" id="2V8-Gr-ZsY"/>
                         <outlet property="labelPlatform" destination="FR6-us-TGn" id="Kmn-ka-FVG"/>
@@ -1124,8 +1178,9 @@ With the ongoing support from the College of Engineering, OIT, academic and corp
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="l0M-3L-G4A" sceneMemberID="firstResponder"/>
+                <barButtonItem enabled="NO" title="End" id="RbD-ci-TT6"/>
             </objects>
-            <point key="canvasLocation" x="-133" y="-381"/>
+            <point key="canvasLocation" x="-145" y="-275"/>
         </scene>
     </scenes>
     <resources>
@@ -1142,8 +1197,10 @@ With the ongoing support from the College of Engineering, OIT, academic and corp
         <simulatedScreenMetrics key="destination"/>
     </simulatedMetricsContainer>
     <inferredMetricsTieBreakers>
+        <segue reference="5bc-2n-70y"/>
         <segue reference="ttx-7Y-iZh"/>
-        <segue reference="ATp-6H-yuH"/>
+        <segue reference="Jh1-Te-MfZ"/>
         <segue reference="aXk-1A-S3z"/>
+        <segue reference="zjP-kh-8xl"/>
     </inferredMetricsTieBreakers>
 </document>

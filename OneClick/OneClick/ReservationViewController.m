@@ -247,7 +247,7 @@ typedef enum RequestPhases {
 			
 			self.labelProgress.text = @"Requesting reservation...";
 			self.currentPhase = Request;
-			[self.xmlrpc addRequestForImageID:self.oneClick.imageID starting:@"now" withDuration:self.oneClick.length];
+			[self.xmlrpc addRequestForImageID:self.oneClick.imageID starting:@"now" withDuration:self.oneClick.length withOneClickID:self.oneClick.ID withFlag:self.existingReservation];
 		}
 			break;
 		case Request:

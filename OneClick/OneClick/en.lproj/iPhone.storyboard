@@ -518,7 +518,7 @@ With the ongoing support from the College of Engineering, OIT, academic and corp
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                         <subviews>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="CeH-t9-6hG">
-                                <rect key="frame" x="20" y="315" width="280" height="37"/>
+                                <rect key="frame" x="15" y="255" width="280" height="37"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="15"/>
                                 <state key="normal" title="Create Reservation and Connect">
@@ -532,43 +532,58 @@ With the ongoing support from the College of Engineering, OIT, academic and corp
                                     <segue destination="GiE-F9-0Z6" kind="modal" identifier="MakeReservation" id="1eJ-mD-ZbH"/>
                                 </connections>
                             </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="oS4-cK-cIv">
+                                <rect key="frame" x="15" y="308" width="280" height="37"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="boldSystem" pointSize="15"/>
+                                <state key="normal" title="Connect to Existing Reservation">
+                                    <color key="titleColor" red="0.19607843459999999" green="0.30980393290000002" blue="0.52156865600000002" alpha="1" colorSpace="calibratedRGB"/>
+                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <state key="highlighted">
+                                    <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <connections>
+                                    <segue destination="GiE-F9-0Z6" kind="push" identifier="ConnectToExistingReservation" id="7pd-Sb-3T7"/>
+                                </connections>
+                            </button>
                             <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="Environment:" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumFontSize="10" id="20F-g0-u6q">
-                                <rect key="frame" x="20" y="87" width="280" height="21"/>
+                                <rect key="frame" x="20" y="66" width="280" height="21"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="Platform:" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumFontSize="10" id="HwV-K2-2Rn">
-                                <rect key="frame" x="20" y="153" width="280" height="21"/>
+                                <rect key="frame" x="20" y="132" width="280" height="21"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="Duration:" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumFontSize="10" id="1dc-hW-l4L">
-                                <rect key="frame" x="20" y="225" width="280" height="21"/>
+                                <rect key="frame" x="20" y="197" width="280" height="21"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="Label" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumFontSize="10" id="b2y-NP-SSg">
-                                <rect key="frame" x="42" y="116" width="258" height="21"/>
+                                <rect key="frame" x="42" y="95" width="258" height="21"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="Label" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumFontSize="10" id="4cL-z4-eKq">
-                                <rect key="frame" x="42" y="182" width="258" height="21"/>
+                                <rect key="frame" x="42" y="161" width="258" height="21"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="Label" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumFontSize="10" id="ywb-a3-E0f">
-                                <rect key="frame" x="42" y="254" width="258" height="21"/>
+                                <rect key="frame" x="42" y="226" width="258" height="21"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
@@ -602,7 +617,7 @@ With the ongoing support from the College of Engineering, OIT, academic and corp
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="23" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-108" y="-3588"/>
+            <point key="canvasLocation" x="-94" y="-3588"/>
         </scene>
         <!--Navigation Controller-->
         <scene sceneID="gVr-eI-BCJ">
@@ -834,7 +849,7 @@ With the ongoing support from the College of Engineering, OIT, academic and corp
             <objects>
                 <tableViewController id="XNV-sy-5uX" customClass="DurationListViewController" sceneMemberID="viewController">
                     <tableView key="view" opaque="NO" clipsSubviews="YES" clearsContextBeforeDrawing="NO" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="grouped" separatorStyle="singleLineEtched" rowHeight="44" sectionHeaderHeight="10" sectionFooterHeight="10" id="UuH-2o-uVr">
-                        <rect key="frame" x="0.0" y="64" width="320" height="416"/>
+                        <rect key="frame" x="0.0" y="64" width="320" height="372"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                         <prototypes>
@@ -914,6 +929,7 @@ With the ongoing support from the College of Engineering, OIT, academic and corp
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
                     </view>
+                    <navigationItem key="navigationItem" id="Pj0-cN-SyQ"/>
                     <connections>
                         <outlet property="labelName" destination="NPV-vE-ZQO" id="Lrg-Z2-zNB"/>
                         <outlet property="labelProgress" destination="HsT-ZE-faE" id="qYD-gn-dO5"/>
@@ -990,6 +1006,43 @@ With the ongoing support from the College of Engineering, OIT, academic and corp
                                 <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="2rW-Aq-64S">
+                                <rect key="frame" x="20" y="262" width="95" height="37"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="boldSystem" pointSize="15"/>
+                                <state key="normal" title="Extend >">
+                                    <color key="titleColor" red="0.19607843459999999" green="0.30980393290000002" blue="0.52156865600000002" alpha="1" colorSpace="calibratedRGB"/>
+                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <state key="highlighted">
+                                    <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <connections>
+                                    <segue destination="XNV-sy-5uX" kind="push" identifier="ExtendDuration" id="dxc-8I-LjR"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="YuO-e2-pQK">
+                                <rect key="frame" x="209" y="262" width="91" height="37"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="boldSystem" pointSize="15"/>
+                                <state key="normal" title="Update">
+                                    <color key="titleColor" red="0.19607843459999999" green="0.30980393290000002" blue="0.52156865600000002" alpha="1" colorSpace="calibratedRGB"/>
+                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <state key="highlighted">
+                                    <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <connections>
+                                    <segue destination="8kV-90-7gW" kind="push" identifier="UpdateDuration" id="oSs-US-iGi"/>
+                                </connections>
+                            </button>
+                            <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="Not Set" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumFontSize="10" id="Yag-0l-iJ3">
+                                <rect key="frame" x="123" y="262" width="85" height="36"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
                             <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="VCL Reservation" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumFontSize="10" id="55g-Cu-CwR">
                                 <rect key="frame" x="20" y="20" width="280" height="23"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
@@ -1010,6 +1063,8 @@ With the ongoing support from the College of Engineering, OIT, academic and corp
                     </navigationItem>
                     <simulatedToolbarMetrics key="simulatedBottomBarMetrics"/>
                     <connections>
+                        <outlet property="duration" destination="Yag-0l-iJ3" id="Kz1-pQ-a3o"/>
+                        <outlet property="durationUpdate" destination="YuO-e2-pQK" id="1IV-u4-UGn"/>
                         <outlet property="labelEnd" destination="tQZ-qb-MUR" id="CA0-vf-eX3"/>
                         <outlet property="labelName" destination="55g-Cu-CwR" id="td8-rI-Q1U"/>
                         <outlet property="labelPlatform" destination="XW3-rC-Eyf" id="ex0-If-V5U"/>
@@ -1076,6 +1131,9 @@ With the ongoing support from the College of Engineering, OIT, academic and corp
             <source key="sourceIdentifier" type="project" relativePath="./Classes/ReservationDetailViewController.h"/>
             <relationships>
                 <relationship kind="outlet" name="defaultView" candidateClass="UIView"/>
+                <relationship kind="outlet" name="duration" candidateClass="UILabel"/>
+                <relationship kind="outlet" name="durationUpdate" candidateClass="UIButton"/>
+                <relationship kind="outlet" name="extendDuration" candidateClass="UITableViewCell"/>
                 <relationship kind="outlet" name="labelEnd" candidateClass="UILabel"/>
                 <relationship kind="outlet" name="labelName" candidateClass="UILabel"/>
                 <relationship kind="outlet" name="labelPlatform" candidateClass="UILabel"/>
@@ -1113,8 +1171,10 @@ With the ongoing support from the College of Engineering, OIT, academic and corp
         <simulatedScreenMetrics key="destination"/>
     </simulatedMetricsContainer>
     <inferredMetricsTieBreakers>
-        <segue reference="jKi-hs-PmH"/>
-        <segue reference="Ra9-FF-ejJ"/>
         <segue reference="zH6-96-4pN"/>
+        <segue reference="sfW-N9-lr7"/>
+        <segue reference="1eJ-mD-ZbH"/>
+        <segue reference="KjU-E3-vqY"/>
+        <segue reference="dxc-8I-LjR"/>
     </inferredMetricsTieBreakers>
 </document>

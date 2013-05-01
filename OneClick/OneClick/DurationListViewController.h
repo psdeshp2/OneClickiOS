@@ -16,7 +16,7 @@
 
 @end
 
-@interface DurationListViewController : UITableViewController
+@interface DurationListViewController : UITableViewController 
 
 @property (nonatomic, strong) id<DurationListDelegate> delegate;
 @property (nonatomic, strong) NSNumber *selectedMinutes;

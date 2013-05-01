@@ -6,7 +6,7 @@
 //  Copyright (c) 2012 __MyCompanyName__. All rights reserved.
 //
 
-#define VCLURL @"https://152.46.17.55/index.php?mode=xmlrpccall"
+#define VCLURL @"https://152.46.17.115/index.php?mode=xmlrpccall"
 
 //#define VCLURL @"https://vcl.ncsu.edu/sch_update/index.php?mode=xmlrpccall"
 

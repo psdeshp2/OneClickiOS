@@ -9,6 +9,7 @@
 #import "ReservationDetailViewController.h"
 #import "ReservationListViewController.h"
 
+
 @interface ReservationDetailViewController ()
 
 @property (strong, nonatomic) IBOutlet UIView *defaultView;
@@ -18,6 +19,12 @@
 @property (strong, nonatomic) IBOutlet UILabel *labelStart;
 @property (strong, nonatomic) IBOutlet UILabel *labelEnd;
 @property (strong, nonatomic) IBOutlet UIImageView *platformLogo;
+
+@property (strong, nonatomic) IBOutlet UITableViewCell *extendDuration;
+@property (strong, nonatomic) IBOutlet UILabel *duration;
+
+@property (strong, nonatomic) IBOutlet UIButton *durationUpdate;
+
 
 @property (strong, nonatomic) VCLXMLRPC *vclXMLRPC;
 
@@ -34,6 +41,9 @@
 @synthesize reservation = _reservation;
 @synthesize defaultView = _defaultView;
 @synthesize vclXMLRPC = _vclXMLRPC;
+@synthesize extendDuration = _extendDuration;
+@synthesize duration = _duration;
+@synthesize durationUpdate = _durationUpdate;
 
 - (void)setReservation:(id)newReservation
 {
@@ -68,6 +78,8 @@
 		[self.defaultView setHidden:YES];
 		
 		[[self.navigationItem rightBarButtonItem] setEnabled:YES];
+        
+        [self.durationUpdate setHidden:YES];
 	}
 }
 
@@ -99,6 +111,7 @@
     return YES;
 }
 
+
 - (void)prepareForSegue:(UIStoryboardSegue *)segue sender:(id)sender {
 	if([segue.identifier isEqualToString:@"ConnectToReservation"]) {
 		
@@ -106,7 +119,15 @@
 		destination.delegate = self;
 		destination.reservation = self.reservation;
 		
-	}
+	} else if([segue.identifier isEqualToString:@"UpdateDuration"]) {
+		[self.vclXMLRPC extendRequest:self.reservation.ID withDuration: self.updateDuration];
+        self.duration.text = @"Not Set";
+        [self.durationUpdate setHidden:YES];
+        [self configureView];
+	} else if([segue.identifier isEqualToString:@"ExtendDuration"]) {
+        // delegate to duration list controller
+        ((DurationListViewController *)[segue destinationViewController]).delegate = (id)self;
+    } 
 }
 
 - (void)clear {
@@ -155,7 +176,7 @@
 	}
 	else {
 		UIAlertView *message = [[UIAlertView alloc] initWithTitle:@"Operation failed"
-														  message:@"The reservation could not be ended."
+														  message:[result objectForKey:@"errormsg"]
 														 delegate:nil
 												cancelButtonTitle:@"OK"
 												otherButtonTitles:nil];
@@ -182,6 +203,14 @@
 
 - (void)reservationDone:(ReservationViewController *)sender withResult:(OneClick *)oneClick {
 	[sender dismissModalViewControllerAnimated:YES];
+}
+
+- (void)durationListViewController:(DurationListViewController *)sender didSelectDuration: (NSString *)name withMinutes:(NSNumber *)minutes {
+    self.updateDuration = minutes;
+    self.duration.text = [OneClick minutesToString:minutes];
+    [self.navigationController popViewControllerAnimated:YES];
+	[self configureView];
+    [self.durationUpdate setHidden:NO];
 }
 
 

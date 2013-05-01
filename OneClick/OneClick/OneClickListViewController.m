@@ -218,6 +218,8 @@ static id instance = nil;
 			}
 		}
 		else if([request.method isEqualToString:@"XMLRPCaddOneClick"]) {
+           // [self refresh];
+            ((OneClick *) _objects.firstObject).ID = [result objectForKey:@"oneclickid"];
 		}
 		else if([request.method isEqualToString:@"XMLRPCdeleteOneClick"]) {
 		}

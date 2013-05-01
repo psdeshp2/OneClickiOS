@@ -27,4 +27,6 @@
 @property (nonatomic, strong) OneClick *oneClick;
 @property (nonatomic, strong) Reservation *reservation;
 
+@property (nonatomic, strong) NSNumber *existingReservation;
+
 @end
